@@ -1,0 +1,13 @@
+C:\Users\Michael\Dropbox\Projlocal\Ellipse\PSU_B\GUI\PSU_B\obj\Debug\PSU_B.csproj.AssemblyReference.cache
+C:\Users\Michael\Dropbox\Projlocal\Ellipse\PSU_B\GUI\PSU_B\obj\Debug\PSU_B.MainForm.resources
+C:\Users\Michael\Dropbox\Projlocal\Ellipse\PSU_B\GUI\PSU_B\obj\Debug\PSU_B.Properties.Resources.resources
+C:\Users\Michael\Dropbox\Projlocal\Ellipse\PSU_B\GUI\PSU_B\obj\Debug\PSU_B.csproj.GenerateResource.cache
+C:\Users\Michael\Dropbox\Projlocal\Ellipse\PSU_B\GUI\PSU_B\obj\Debug\PSU_B.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Dropbox\Projlocal\Ellipse\PSU_B\GUI\PSU_B\bin\Debug\PSU_B.exe.config
+C:\Users\Michael\Dropbox\Projlocal\Ellipse\PSU_B\GUI\PSU_B\bin\Debug\PSU_B.exe
+C:\Users\Michael\Dropbox\Projlocal\Ellipse\PSU_B\GUI\PSU_B\bin\Debug\PSU_B.pdb
+C:\Users\Michael\Dropbox\Projlocal\Ellipse\PSU_B\GUI\PSU_B\bin\Debug\EasyModbus.dll
+C:\Users\Michael\Dropbox\Projlocal\Ellipse\PSU_B\GUI\PSU_B\bin\Debug\EasyModbus.xml
+C:\Users\Michael\Dropbox\Projlocal\Ellipse\PSU_B\GUI\PSU_B\obj\Debug\PSU_B.csproj.Up2Date
+C:\Users\Michael\Dropbox\Projlocal\Ellipse\PSU_B\GUI\PSU_B\obj\Debug\PSU_B.exe
+C:\Users\Michael\Dropbox\Projlocal\Ellipse\PSU_B\GUI\PSU_B\obj\Debug\PSU_B.pdb
